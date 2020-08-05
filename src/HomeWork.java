@@ -1,6 +1,6 @@
 public class HomeWork {
 
-    public static void main(String src[]) {
+    public static void main(String[] args) {
         Animal kitty = new Cat();
         Bowl bowlForKitty = new CatBowl();
         kitty.assignBowl(bowlForKitty);
